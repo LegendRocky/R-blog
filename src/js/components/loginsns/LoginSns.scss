@@ -1,0 +1,53 @@
+div.login-sns{
+	text-align:center;
+	p{
+		color:#999;
+		margin:20px;
+	}
+}
+div.login-sns ul{
+	text-align:center;
+	margin-bottom:20px;
+	font-size:24px;
+	color:#000;
+}
+div.login-sns ul li {
+  display: inline-block;
+  width: 44px;
+  height: 44px;
+  border: 1px solid #C0C0C0;
+  border-radius: 50%;
+  background: #EEE none repeat scroll 0% 0%;
+  line-height: 44px;
+  margin: 0 5px;
+}
+li.weibo:hover{
+	background-color:rgb(245,126,66);
+	a{
+		color:white;
+	}
+}
+li.qq:hover{
+	background-color:rgb(21,167,240);
+	a{
+		color:white;
+	}
+}
+li.github:hover{
+	background-color:rgb(73,190,56);
+	a{
+		color:white;
+	}
+}
+li.google:hover{
+	background-color:rgb(244,61,55);
+	a{
+		color:white;
+	}
+}
+li.wechat:hover{
+	background-color:rgb(73,190,56);
+	a{
+		color:white;
+	}
+}

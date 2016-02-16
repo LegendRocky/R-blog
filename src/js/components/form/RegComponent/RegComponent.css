@@ -1,0 +1,40 @@
+form {
+  width: 300px;
+  margin: 0px auto;
+  border-bottom: 1px solid #C0C0C0;
+  padding-bottom: 30px; }
+
+.input-prepend {
+  width: 100%;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  line-height: 44px;
+  white-space: nowrap;
+  border: 1px solid #C0C0C0; }
+
+span.add-on {
+  width: 44px;
+  height: 44px;
+  display: inline-block;
+  border-radius: 4px 0px 0px 4px;
+  line-height: 44px;
+  border-right: 1px solid #C0C0C0; }
+
+.reg-btn {
+  width: 100%;
+  background: #49BE38 none repeat scroll 0% 0%;
+  height: 50px;
+  border: medium none;
+  color: #FFF;
+  border-radius: 2px;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 30px; }
+  .reg-btn:hover {
+    opacity: 0.8; }
+
+span.remind {
+  color: red;
+  padding-left: 10px; }
+
+/*# sourceMappingURL=RegComponent.css.map */

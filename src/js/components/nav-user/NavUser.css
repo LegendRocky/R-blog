@@ -1,0 +1,15 @@
+.navbar-user {
+  position: fixed;
+  top: 20px;
+  right: 0px;
+  width: 120px;
+  height: 30px;
+  line-height: 30px; }
+
+.navbar-user a.login {
+  margin-right: 15px;
+  opacity: 0.6; }
+  .navbar-user a.login:hover {
+    opacity: 1; }
+
+/*# sourceMappingURL=NavUser.css.map */

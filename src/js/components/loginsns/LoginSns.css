@@ -1,0 +1,48 @@
+div.login-sns {
+  text-align: center; }
+  div.login-sns p {
+    color: #999;
+    margin: 20px; }
+
+div.login-sns ul {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #000; }
+
+div.login-sns ul li {
+  display: inline-block;
+  width: 44px;
+  height: 44px;
+  border: 1px solid #C0C0C0;
+  border-radius: 50%;
+  background: #EEE none repeat scroll 0% 0%;
+  line-height: 44px;
+  margin: 0 5px; }
+
+li.weibo:hover {
+  background-color: #f57e42; }
+  li.weibo:hover a {
+    color: white; }
+
+li.qq:hover {
+  background-color: #15a7f0; }
+  li.qq:hover a {
+    color: white; }
+
+li.github:hover {
+  background-color: #49be38; }
+  li.github:hover a {
+    color: white; }
+
+li.google:hover {
+  background-color: #f43d37; }
+  li.google:hover a {
+    color: white; }
+
+li.wechat:hover {
+  background-color: #49be38; }
+  li.wechat:hover a {
+    color: white; }
+
+/*# sourceMappingURL=LoginSns.css.map */
